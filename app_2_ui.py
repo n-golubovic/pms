@@ -21,7 +21,7 @@ logging.basicConfig(
 
 logger = logging.getLogger(__name__)
 
-API_KEY = 'ab58eaf4'
+API_KEY = ''  # Add api key here
 OMDB_API_URL = f'https://www.omdbapi.com/'
 
 
